@@ -3,7 +3,7 @@ import Title from '../components/Title'
 export default function Skills() {
   return (
     <div className="flex justify-center pt-2 bg-secondaryPurple h-fit pb-10">
-      <div className="w-3/4">
+      <div className="w-4/6">
         <div className="flex justify-end">
             <Title title="Skills" isPurple={false} />
         </div>
