@@ -7,7 +7,7 @@ import Skills from "./pages/Skills"
 
 function App() {
   return (
-    <div>
+    <div className="overflow-x-hidden">
       <Navbar />
       <Home />
       <AboutMe />
