@@ -1,4 +1,3 @@
-import React from 'react'
 import ProjectTile from '../components/ProjectTile'
 import Title from '../components/Title'
 

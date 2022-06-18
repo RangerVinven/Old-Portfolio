@@ -1,5 +1,3 @@
-import React from 'react'
-
 import ExperienceItem from '../components/ExperienceItem';
 import Title from '../components/Title';
 
