@@ -10,13 +10,13 @@ export default function Projects() {
 			</div>
 			
 			<div className="grid grid-cols-3 gap-y-8 justify-evenly pt-3">
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Fun Farms" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Project Title" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Project Title" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
 				
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
-				<ProjectTile title="Project Title" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Project Title" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Project Title" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
+				<ProjectTile title="Project Title" imageURL="./src/media/projectImages/funFarms.jpg" githubURL="https://github.com/RangerVinven/Portfolio" />
 			</div>
 		</div>
     </div>
