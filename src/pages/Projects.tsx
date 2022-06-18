@@ -1,5 +1,5 @@
-import ProjectTile from '../components/ProjectTile'
 import Title from '../components/Title'
+import ProjectTile from '../components/ProjectTile'
 
 export default function Projects() {
   return (
