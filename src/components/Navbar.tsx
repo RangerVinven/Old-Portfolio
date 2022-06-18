@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <div className="bg-mainPurple text-white flex items-center pt-2">
         <div className="shrink-0">
-            <a href="#home"><h1 className="text-2xl font-bold ml-2">Daniel McPherson</h1></a>
+            <a href="#home"><h1 className="text-2xl font-bold ml-3">Daniel McPherson</h1></a>
         </div>
         <div className="w-full flex justify-end">
             <div className="w-6/12 flex justify-evenly">
