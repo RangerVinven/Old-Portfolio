@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Home() {
   return (
     <div className="h-screen w-screen bg-mainPurple">
@@ -7,7 +5,7 @@ export default function Home() {
             <img src="src/media/userIcon.png" alt="User Icon" className="h-20 w-20 mb-5" />
             
             <h1 className="text-4xl font-bold text-white">Welcome, I'm Daniel McPherson</h1>
-            <h1 className="text-4xl font-bold mt-5 text-white">I'm a Fullstack Developer</h1>
+            <h1 className="text-4xl font-bold mt-5 text-white">and I'm a Fullstack Developer</h1>
             
             <div>
                 <a href="https://github.com/RangerVinven" target="_blank" rel="noopener noreferrer">
