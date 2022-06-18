@@ -6,8 +6,6 @@ interface Props {
 
 export default function ProjectTile(props: Props) {
 
-	const tileStyling = "h-full w-full bg-[url('" + props.imageURL + "')] filter hover:cursor-pointer hover:blur-sm"
-
 	return (
 		<div className="h-72 w-72 rounded-md bg-white">
 			<img src="./src/media/projectImages/funFarms.jpg" alt="Fun Farms image" className="w-full h-full relative hover:blur-sm" />
