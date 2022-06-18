@@ -9,7 +9,7 @@ export default function Home() {
             
             <div>
                 <a href="https://github.com/RangerVinven" target="_blank" rel="noopener noreferrer">
-                    <img src="src/media/githubIcon.png" alt="GitHub Icon" />
+                    <img src="src/media/github.ico" alt="GitHub Icon" className="h-10 w-10 mt-3" />
                 </a>
             </div>
         </div>

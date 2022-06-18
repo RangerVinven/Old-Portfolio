@@ -16,6 +16,7 @@ export default function Projects() {
                 <ProjectTile />
             </div>
             <br />
+            <br />
             <div className="flex justify-evenly">
                 <ProjectTile />
                 <ProjectTile />

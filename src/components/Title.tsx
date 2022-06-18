@@ -7,7 +7,7 @@ interface Props {
 
 export default function Title(props: Props) {
 
-    const textSize = "text-2xl ";
+    const textSize = "text-4xl ";
     const styling = props.isPurple ? "text-mainPurple font-bold" : "text-white font-bold"
 
     return (
